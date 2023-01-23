@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MagicSalt
-- 👀 I’m interested in learning how to become a software engineer
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @MagicSalt a fullstack Web Developer
+- 👀 I’m interested in learning to becoming a more well rounded web developer by learning more framewworks
+- 🌱 I’m currently learning Typescript, GraphQL, and Apollo
+- 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me: darrenlin815@hotmail.com
 
 <!---
